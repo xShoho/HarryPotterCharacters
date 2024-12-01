@@ -7,7 +7,7 @@ Returns csv file containing name and surname of Harry Potter characters
 ## Requirements
 - requests
 - pandas
-- BeautifulSoup:
+- BeautifulSoup
 
 ```pip install pandas beautifulsoup4 requests```
 
